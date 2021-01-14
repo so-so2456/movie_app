@@ -1,3 +1,4 @@
 # Movie App
 
-Using React JS
+Using React JS  
+npm, npx
